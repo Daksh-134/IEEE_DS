@@ -1,0 +1,619 @@
+
+.videoplay{
+    background-image: url("../components_images/videoplayvec.jpg");
+    width: 60vw;
+    height: 90vh;
+    background-size: cover;
+    
+}f
+.dslogo_h{
+    width: 300px;
+    margin-left: -12px;
+}
+		.meta-nav {
+			min-height: 40px;
+    		background: #000000;
+    		color: #ffffff;
+			padding: 0px;
+			margin: -21px;
+		}
+		
+		
+		#meta-ieee-logo {
+  			margin: 0px;
+			float:right;
+ 		}
+
+		#meta-ieee-logo .joinIEEE{
+			float: right;
+			color: #fff;
+ 			padding: 11px 36px;
+		}
+
+		#meta-ieee-logo .joinIEEE:link, #meta-ieee-logo .joinIEEE:visited, #meta-ieee-logo .joinIEEE:active {
+			color: #fff;
+			text-decoration: none;
+		}
+
+		#meta-ieee-logo .joinIEEE:hover {
+			color: #fff;
+			text-decoration: underline;
+		}
+
+		 
+		 
+		@media (max-width: 800px) {
+		.meta-nav {
+			min-height: 140px;
+    		background: #000000;
+    		color: #ffffff;
+			padding: 0px;
+       
+			margin: -21px;
+		}
+		.meta-ieee-logo {
+  			padding: 20px 0px 0px 0px;
+			float:right;
+			max-width: 100px;
+		}
+		}
+		
+		p {
+			font-family: inherit;
+			font-size: .9em;
+			line-height: 125%;
+			border: 0;
+			margin: 0;
+		}
+
+		#ieee-meta-a {
+			color: #fff;
+			text-align: left;
+			padding: 11px 36px;
+			float: left;
+		}
+
+		#ieee-meta-a a:link, #ieee-meta-a a:visited, #ieee-meta-a a:active {
+			color: #fff;
+			text-decoration: none;
+		}
+
+		#ieee-meta-a a:hover {
+			color: #fff;
+			text-decoration: underline;
+		}
+.horflexlo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  
+    top: 0;
+}
+.crdflex{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+
+.floating { 
+    animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+ 
+@keyframes floating {
+    0% { transform: translate(0,  0px); }
+    50%  { transform: translate(0, 15px); }
+    100%   { transform: translate(0, -0px); }   
+}
+.secani{
+    
+    height: 400px;
+    margin: auto;
+}
+.headim{
+   height: 200px;
+    background-size: cover;
+    margin: auto;
+}
+
+@media screen and (max-width: 745px) {
+    .headim{
+        height: 600px;
+        background-size: cover;
+        margin: auto;
+    }
+  }
+@media screen and (max-width: 479px) {
+   .frmele{
+    height:50px;
+   }
+  }
+@media screen and (min-width: 479px) {
+   .frmelek{
+    height:200px;
+    width: 400px;
+   }
+  }
+@media screen and (max-width: 745px) {
+    .headim{
+        height: 600px;
+        background-size: cover;
+        margin: auto;
+    }
+  }
+@media screen and (max-width: 500px) {
+    .headim{
+        height: 450px;
+        background-size: cover;
+        margin: auto;
+    }
+  }
+.awardtxt{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+@media only screen and (min-width: 767px) {
+    .alpl{
+ 
+        margin: auto;
+        
+     margin-right: 40vw;
+     margin-bottom: 39vh;
+    }
+    
+      
+  }
+@media only screen and (max-width: 766px) {
+    .alpl{
+ 
+        margin: auto;
+        
+     margin-right: 89vw;
+     margin-bottom: 49vh;
+    }
+   
+      
+  }
+  
+
+
+
+.bluebadge
+{
+    margin: auto;
+    background-color: rgba(0, 136, 255, 0.831);
+    color: white;
+    border-radius: 20px;
+    padding: 7px;
+    width: 18vw;
+    text-align: center;
+    
+}
+.bluebadge1
+{
+    margin: auto;
+    background-color: white;
+    color: rgba(0, 136, 255, 0.831);
+    border-radius: 20px;
+    padding: 3px;
+    width: 10vw;
+    text-align: center;
+    
+}
+.hrflex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.h4mainpg{
+    color: #1269b0ec;
+    font-size: 38px;
+    
+}
+.h5mainpg{
+    color: rgb(65, 146, 213);
+    font-size: 20px;
+    
+}
+.crname{
+    color: white;
+}
+.type-mob{
+    font-size: 24px;
+    color: #1269b0ec;
+}
+.gr{
+    margin: 40px;
+}
+.frmele1{
+
+  height: 100px;
+   
+    margin: 20px;
+    
+}
+.crdtext3{
+    background-color: rgb(48, 155, 222);
+    border-radius: 20px;
+    /* height: 70px; */
+    width: 180px;
+    /* padding: 20px; */
+    color: white;
+}
+.crdteam{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+}
+.crdtext2{
+    background-color: rgb(49, 198, 116);
+    border-radius: 20px;
+    width: 100px;
+    color: white;
+}
+
+.crdtext{
+    text-align: center;
+    font-weight: 400;
+}
+
+.iggr1{
+    background-image: url("../features/gridimages/J\ Ashwin\ Nair.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr2{
+    background-image: url("../features/gridimages/Garima\ Patel.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr3{
+    background-image: url("../features/gridimages/GaganSingh_SSR\ -\ IEEE\ Delhi\ SAC.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr4{
+    background-image: url("../features/gridimages/PiyushKumarSahoo_SSR.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr5{
+    background-image: url("../features/gridimages/Rachana_ma\'am.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr6{
+    background-image: url("../features/gridimages/Rashmi\ Agarwal.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr7{
+    background-image: url("../features/gridimages/Mahesh_jangid.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr8{
+    background-image: url("../features/gridimages/Archit\ goswami.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr9{
+    background-image: url("../features/gridimages/Meenu\ Khurana_Chandigarsh_sub-sec.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr10{
+    background-image: url("../features/gridimages/Aditi_Technical-Activity-Coordinator\ -\ Aditi\ tripathi.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr11{
+    background-image: url("../features/gridimages/AishwaryaChand_Editorial-Coordinator\ -\ Aishwarya\ Chand.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr12{
+    background-image: url("../features/gridimages/Ansh\ Dudeja\ _Networking\ and\ Social\ media\ lead\ -\ Ansh\ Dudeja.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr13{
+    background-image: url("../features/gridimages/Charu-Networking\ and\ Social\ Media\ Coordinator\ -\ 26_Charu\ Kaushik.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr14{
+    background-image: url("../features/gridimages/Divita\ Gulati_NetworkingAndSocialMediaCoordinator\ -\ Divita\ Gulati.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr15{
+    background-image: url("../features/gridimages/HarshitSingh_TechnicalActivitiesCoord\ -\ Harshit\ Singh.png");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr16{
+    background-image: url("../features/gridimages/Hemang\ Sinha\ -\ Photograph\ -\ Hemang\ Sinha.JPG");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr17{
+    background-image: url("../features/gridimages/IMG_20210401_075648_410\ -\ Disha\ Vagrecha.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr18{
+    background-image: url("../features/gridimages/KashishGarg_EditorialCoordinator\ -\ Kashish\ Garg.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr19{
+    background-image: url("../features/gridimages/khushikathuria_wiecoordinator\ -\ Khushi\ Kathuria.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr20{
+    background-image: url("../features/gridimages/Light\ Fix\(1\)\ \(1\)\ -\ Priyansh\ Tyagi.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr21{
+    background-image: url("../features/gridimages/Manas\ Das_Graphic\ Design\ Coordinator\ -\ Manas\ Das.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr22{
+    background-image: url("../features/gridimages/Monalika_Networking_SocialMediaLead\ -\ Monalika.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.imgt{
+    background-repeat: no-repeat;
+    
+}
+.name1{
+    font-size: 15px;
+    color:rgb(110, 1, 213);
+}
+.iggr23{
+    background-image: url("../features/gridimages/Pallavi\ -\ Pallavi\ Singh.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+
+.iggr25{
+    background-image: url("../features/gridimages/Pranav_Chauhan.webp");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr26{
+    background-image: url("../features/gridimages/Priti_WIE-Coordinator\ -\ Priti\ Gangwar.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr27{
+    background-image: url("../features/gridimages/Screenshot_20210628-142429\ -\ shaleen\ poddar.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr28{
+    background-image: url("../features/gridimages/Shalini\ Agrawal_\ Graphic\ Designing\ Coordinator\ -\ Shalini\ Agrawal.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr29{
+    background-image: url("../features/gridimages/Shambhavi_SSR\ -\ shambhavi\ khanna.JPG");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr30{
+    background-image: url("../features/gridimages/Sharone_SSR-Chandigarh\ -\ Sharone\ Verma.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr32{
+    background-image: url("../features/gridimages/Shubham\ singla_wiecoordinator\ -\ shubham\ purshottam\ singla.jpeg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr33{
+    background-image: url("../features/gridimages/Tanisha_Editorial\ Lead\ -\ Tanisha\ Dhawan.JPG");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.iggr34{
+    background-image: url("../components_images/vaibhav.jpg");
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    border-radius: 80px;
+}
+.bgcoll{
+    background-color: black;
+}
+.frm{
+    display: flex;
+    flex-direction: column;
+}
+.frmele{
+    margin: 20px;
+}
+.imglo{
+    
+}
+nav.primary-navigation ul li {
+	list-style: none;
+	margin: 0 auto;
+	display: inline-block;
+    margin-top: 10px;
+	padding: 0 24px;
+	position: relative;
+	text-decoration: none;
+	text-align: center;
+	font-family: arvo;
+}
+
+nav.primary-navigation li a {
+	color: black;
+}
+
+nav.primary-navigation li a:hover {
+	color: #3ca0e7;
+}
+
+nav.primary-navigation li:hover {
+	cursor: pointer;
+}
+
+nav.primary-navigation ul li ul {
+	visibility: hidden;
+	opacity: 0;
+	position: absolute;
+	padding-left: 0;
+	left: 0;
+	display: none;
+	background: white;
+}
+
+nav.primary-navigation ul li:hover > ul,
+  nav.primary-navigation ul li ul:hover {
+	visibility: visible;
+	opacity: 1;
+	display: block;
+	min-width: 250px;
+	text-align: left;
+	padding-top: 20px;
+	box-shadow: 0px 3px 5px -1px #ccc;
+}
+
+nav.primary-navigation ul li ul li {
+	clear: both;
+	width: 100%;
+	text-align: left;
+	margin-bottom: 20px;
+	border-style: none;
+}
+
+nav.primary-navigation ul li ul li a:hover {
+	padding-left: 10px;
+	transition: all 0.3s ease;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: #3CA0E7;
+}
+
+ul li ul li a {
+	transition: all 0.5s ease;
+}

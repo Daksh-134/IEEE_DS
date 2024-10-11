@@ -1,0 +1,55 @@
+.Logo1{
+	height: 55px;
+	position:absolute;
+	left: 20px;
+	top: 60px;
+
+}
+.a_a_team{
+
+	margin-left: 30px;
+	font-weight: bold;
+}
+.a_team{
+	font-weight: bold;
+	font-size: 15px;
+	margin: 20px;
+	padding: 10px;
+	padding-top: 20px;
+}
+.Logo2{
+	height: 35px;
+	position:absolute;
+	right:  20px;
+	top: 60px;
+	z-index: 10;
+	
+}
+@media screen and (max-width:1024px) {
+	.Logo1,.Logo2{
+		visibility: hidden;
+	}
+}
+.headtext{
+	padding-left: 35px;
+}
+.flexhor{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	font-size: 15px;
+	font-weight: 600;
+
+	
+}
+/* .headlogos{
+	display: flex;
+	flex-direction: row;
+	justify-content:space-between;
+	
+} */
+.editionsfont{
+	font-family: sans-serif;
+	font-size: 15px;
+}
