@@ -527,7 +527,7 @@ export default ({
       ],
     },
     {
-      imageSrc: Rishabh,
+      imageSrc: Ghanshyam,
       position: "Graphic Designing",
       name: "Ghanshyam",
       name1: "",
