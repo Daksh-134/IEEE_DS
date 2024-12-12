@@ -40,7 +40,7 @@ import Daniyal from "../features/gridimages2/IMG-20240526-WA0013 - Daniyal Jawed
 import Rupin from "../features/gridimages2/WhatsApp Image 2024-04-22 at 19.42.13_92a56bf2 - Rupin Pratap Singh.jpg";
 import ghanshyam from "../features/gridimages2/GHANSHYAM.JPG";
 import Angdeep from "../features/gridimages2/angad_graphicDesign - Angaddeep Singh.jpg";
-import Anhad from "../features/gridimages2/Anhad Grover _Network and Technical Activities Lead - Anhad Grover.HEIC";
+import Anhad from "../features/gridimages2/Anhad_new.jpg";
 import Aparna from "../features/gridimages2/Aparna.JPG";
 const Container = tw.div`relative`;
 const Content = tw.div`max-w-screen-xl mx-auto py-20 lg:py-24`;
