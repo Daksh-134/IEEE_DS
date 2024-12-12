@@ -12,7 +12,7 @@ function SlidingGallery() {
   return (
     <div>
       <div className="sac_22_head">
-        Student Activities Committee <span className="bluefon">2022-23</span>
+        Student Activities Committee <span className="bluefon">2024-25</span>
       </div>
 
       <div className="card_sac_ssn">
