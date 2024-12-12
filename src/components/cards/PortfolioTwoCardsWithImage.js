@@ -38,7 +38,7 @@ import Garima from "../features/gridimages2/Garima_WIE_Committee  - Garima Sagar
 import Vanshika from "../features/gridimages2/Vanshika Gupta_WIE Committee - Vanshika Gupta.jpg";
 import Daniyal from "../features/gridimages2/IMG-20240526-WA0013 - Daniyal Jawed.jpg";
 import Rupin from "../features/gridimages2/WhatsApp Image 2024-04-22 at 19.42.13_92a56bf2 - Rupin Pratap Singh.jpg";
-// import Ghanshyam from "../features/gridimages2/GHASNSHYAM.jpg";
+import ghanshyam from "../features/gridimages2/GHANSHYAM.JPG";
 import Angdeep from "../features/gridimages2/angad_graphicDesign - Angaddeep Singh.jpg";
 import Anhad from "../features/gridimages2/Anhad Grover _Network and Technical Activities Lead - Anhad Grover.HEIC";
 import Aparna from "../features/gridimages2/Aparna.JPG";
