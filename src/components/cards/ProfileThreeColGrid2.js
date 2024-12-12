@@ -37,7 +37,7 @@ import Rupin from "../features/gridimages2/WhatsApp Image 2024-04-22 at 19.42.13
 // import Ghanshyam from "../features/gridimages2/GHASNSHYAM.jpg";
 import Angdeep from "../features/gridimages2/angad_graphicDesign - Angaddeep Singh.jpg";
 import Anhad from "../features/gridimages2/Anhad Grover _Network and Technical Activities Lead - Anhad Grover.HEIC";
-import Aparna from "../features/gridimages2/WhatsApp Image 2023-09-15 at 1.55.43 PM - Kunal Kumar Sharma.jpeg";
+import Aparna from "../features/gridimages2/Aparna.JPG";
 
 const HeadingContainer = tw.div``;
 const Heading = tw(SectionHeading)``;
@@ -223,7 +223,7 @@ export default ({
     {
       imageSrc: Gurnoor,
       position: "Networking And Social Media",
-      name: "Gurnoor",
+      name: "Gurnoor Kaur",
       name1: "",
       links: [
         {
