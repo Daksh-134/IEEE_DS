@@ -19,7 +19,7 @@ import Rishabh from "../features/gridimages2/Rishabh_SSR - Rishabh Jha.jpg";
 import Spruha from "../features/gridimages2/IMG_0970 - Spruha Kar.jpeg";
 import Nyasha from "../features/gridimages2/Nyasha_Chandigarh Sub SSR - NYASHA SAURABH.jpg";
 import Aradhna from "../features/gridimages2/Aradhna_RajSubSSR - Aradhna Aggarwal.jpg";
-import Riya from "../features/gridimages2/RIu - Riya Singh.jpg";
+import Gurnoor from "../features/gridimages2/Gurnoor.png";
 import Daksh from "../features/gridimages2/Daksh_Baweja_Web_Master - DAKSH BAWEJA.jpg";
 import Jonah from "../features/gridimages2/322661075_728797945341479_32642416462179779_n.webp (1) - VARIKUNTA JONAH CHRISTOPHER.jpg";
 import Japjot from "../features/gridimages2/Japjot Singh _ICOC - Japjot Singh.jpg";
@@ -221,9 +221,9 @@ export default ({
       ],
     },
     {
-      imageSrc: Riya,
+      imageSrc: Gurnoor,
       position: "Networking And Social Media",
-      name: "Riya Gupta",
+      name: "Gurnoor",
       name1: "",
       links: [
         {

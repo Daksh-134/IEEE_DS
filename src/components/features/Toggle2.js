@@ -133,7 +133,7 @@ export default class Toggle extends Component {
                   </div>
                   <div className="crdteam">
                     <div className="igg15" />
-                    <h4 className="crdtext crdtext1">Riya Gupta</h4>
+                    <h4 className="crdtext crdtext1">Gurnoor</h4>
                     {/* <h4 className="crdtext crdtext2">TAC</h4> */}
                   </div>
                   <div className="crdteam">
